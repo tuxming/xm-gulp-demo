@@ -1,0 +1,41 @@
+{
+  "name": "web-app",
+  "private": true,
+  "devDependencies": {
+    "grunt-karma": "^0.12.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "2.3.1",
+    "gulp-cache": "^0.2.10",
+    "gulp-cheerio": "^0.6.2",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^2.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-filter": "^2.0.2",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jshint": "^1.11.1",
+    "gulp-karma": "0.0.4",
+    "gulp-less": "^3.1.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.2.4",
+    "jshint-stylish": "^1.0.0",
+    "lazypipe": "^0.2.4",
+    "less": "^2.6.1",
+    "open": "0.0.5",
+    "path": "^0.12.7",
+    "run-sequence": "^1.1.1",
+    "through2": "^2.0.1",
+    "vinyl-fs": "^2.4.3"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
